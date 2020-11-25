@@ -1,7 +1,7 @@
 # About
 
 ## Project
-This reseach project is all about teaching you how to create websites with GitHub pages.
+{{site.description}}
 
 ## Funders
 We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
