@@ -1,7 +1,7 @@
-# My Research Project
+# {{site.title}}
 
 ## Description
-This project is all about teaching you how to create webpages with GitHub Pages.
+{{site.description}}
 
-Link to the [About page](about.md).
+If you have any questions, [please contact us](mailto:{{site.email}}).
 
